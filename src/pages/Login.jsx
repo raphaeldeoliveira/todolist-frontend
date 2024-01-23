@@ -17,6 +17,7 @@ a
                     <input type="checkbox" />
                     <label>Remember me?</label>
                 </div>
+                <button type="submit">Enter</button>
             </form>
         </div>
     )
