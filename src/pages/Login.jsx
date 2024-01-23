@@ -13,6 +13,10 @@ a
                 <input type="text" placeholder="username"/>
                 <label>password: </label>
                 <input type="text" placeholder="password"/>
+                <div>
+                    <input type="checkbox" />
+                    <label>Remember me?</label>
+                </div>
             </form>
         </div>
     )

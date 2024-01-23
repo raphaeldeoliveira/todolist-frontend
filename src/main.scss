@@ -15,6 +15,20 @@
     }
     .right-page {
         width: 45%;
-        background-color: green;
+
+        & > label {
+            text-align:center;
+            display: block;
+        }
+
+        & > input {
+            display: flex;
+            flex-direction: column;
+            margin: auto;
+        }
+
+        & > div {
+            margin: auto;
+        }
     }
 }
