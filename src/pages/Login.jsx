@@ -8,17 +8,19 @@ export default function Login() {
             <div className="left-page">
 a
             </div>
-            <form className="right-page">
-                <label>user: </label>
-                <input type="text" placeholder="username"/>
-                <label>password: </label>
-                <input type="text" placeholder="password"/>
-                <div>
-                    <input type="checkbox" />
-                    <label>Remember me?</label>
-                </div>
-                <button type="submit">Enter</button>
-            </form>
+            <div className="right-page">
+                <form className="right-page">
+                    <label>user: </label>
+                    <input type="text" placeholder="username"/>
+                    <label>password: </label>
+                    <input type="text" placeholder="password"/>
+                    <div>
+                        <input type="checkbox" />
+                        <label>Remember me?</label>
+                    </div>
+                    <button type="submit">Enter</button>
+                </form>
+            </div>
         </div>
     )
 }
