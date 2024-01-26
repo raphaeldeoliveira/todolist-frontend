@@ -6,7 +6,12 @@ export default function Login() {
     return (
         <div className="login">
             <div className="left-page">
-a
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eius alias maiores mollitia beatae et cumque ut molestias neque aut ex molestiae enim blanditiis quasi quibusdam eos, illo sapiente esse error?</p>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eius alias maiores mollitia beatae et cumque ut molestias neque aut ex molestiae enim blanditiis quasi quibusdam eos, illo sapiente esse error?</p>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eius alias maiores mollitia beatae et cumque ut molestias neque aut ex molestiae enim blanditiis quasi quibusdam eos, illo sapiente esse error?</p>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eius alias maiores mollitia beatae et cumque ut molestias neque aut ex molestiae enim blanditiis quasi quibusdam eos, illo sapiente esse error?</p>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eius alias maiores mollitia beatae et cumque ut molestias neque aut ex molestiae enim blanditiis quasi quibusdam eos, illo sapiente esse error?</p>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eius alias maiores mollitia beatae et cumque ut molestias neque aut ex molestiae enim blanditiis quasi quibusdam eos, illo sapiente esse error?</p>
             </div>
             <div className="right-page">
                 <form className="right-page">
